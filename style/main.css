@@ -56,7 +56,7 @@ h1.title {
   background: #bbada0;
   padding: 15px 25px;
   font-size: 25px;
-  height: 25px;
+  height: 55px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
@@ -622,7 +622,8 @@ hr {
 
   .grid-container {
     position: absolute;
-    z-index: 1; }
+    z-index: 1; 
+    bottom: 0; }
 
   .grid-row {
     margin-bottom: 10px; }
